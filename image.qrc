@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>image/img01.jpg</file>
+        <file>image/Bitmap_709.bmp</file>
+        <file>image/Bitmap_701.bmp</file>
+        <file>image/Bitmap_261.bmp</file>
+        <file>image/Bitmap_245.bmp</file>
+        <file>image/Bitmap_253.bmp</file>
+        <file>image/Bitmap_123.bmp</file>
+        <file>image/Bitmap_127.bmp</file>
+        <file>image/Bitmap_101.bmp</file>
+        <file>image/eraser.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
